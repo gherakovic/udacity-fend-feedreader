@@ -17,4 +17,3 @@ Whether you work in an organization that uses test-driven development or in an o
 * 1:1 student session with Julian [ABND]
 * Matthew Cranford Blog
 * Udacity Study Group
-# udacity-fend-feedreader
