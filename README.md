@@ -12,11 +12,9 @@ Whether you work in an organization that uses test-driven development or in an o
 * Clone or download the project from GitHub
 * Open the index.html with your text editor
 * Check over the test suites and feeds
-* Ooh and aah over the project
 
 ## Acknowledgements
 * 1:1 student session with Julian [ABND]
 * Matthew Cranford Blog
 * Udacity Study Group
 # udacity-fend-feedreader
-# udacity-fend-feedreaderv3
